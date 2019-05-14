@@ -131,7 +131,7 @@ window.onload = function(){
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/320px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg" class="img-responsive">
           </div>
           <div class="card-body bg-secondary text-dark">
-            Lens est une ville de Pas de Calais, on peut y retrouver le Louvre Lens et plusieurs écoles tel que l'IUT de Lens ou se trouve le DUT MMI.
+            Insérez description...
           </div>
         </div>
       </div>
@@ -209,7 +209,7 @@ window.onload = function(){
       </div>
 
       <div class="column col-auto">
-        <div id="ville_Montpellier" class="card bg-dark m-2"><!-- LAUREEN MONTPELLIER-->
+        <div id="ville_Paris" class="card bg-dark m-2"><!-- LAUREEN MONTPELLIER-->
           <!--  l'id de la forme ville_A est nécessaire pour que le lien vers
                  la ville Afonctionne -->
           <div class="card-header">
