@@ -209,7 +209,7 @@ window.onload = function(){
       </div>
 
       <div class="column col-auto">
-        <div id="ville_Montpellier" class="card bg-dark m-2"><!-- LAUREEN MONTPELLIER-->
+        <div id="ville_Paris" class="card bg-dark m-2"><!-- LAUREEN MONTPELLIER-->
           <!--  l'id de la forme ville_A est nécessaire pour que le lien vers
                  la ville Afonctionne -->
           <div class="card-header">
